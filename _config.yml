@@ -1,11 +1,12 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Darren Holmes
+email: dholmes5247@hotmail.com
+url: https://dholmes5247.github.io
+description: "Software Developer with experience in SQL, Java, JavaScript, Spring Boot, React, and full-stack projects."
+keywords: "Java, Spring Boot, React, SQL, Web Development, Full Stack"
+skills: "Web Developer · Leadership · Sales · Collaboration · Communication"
+meta_author: Darren Holmes
+
 
 # Google webmaster tools
 google_verify:
@@ -32,28 +33,27 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Darren Holmes
+  location: St Louis, MO
+  social: www.linkedin.com/in/darren-holmes-software-dev-account-manager
+  credits: 'Portfolio built with the Freelancer Jekyll theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: www.linkedin.com/in/darren-holmes-software-dev-account-manager
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/darren.holmes.50
+  - title: Github Portfolio Page
+    url: https://dholmes5247.github.io/
+
+  - title: github repositories
+    url: https://github.com/dholmes5247
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 1229 Newport Landing Dr.
+  - line: St. Louis, MO 63026
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
